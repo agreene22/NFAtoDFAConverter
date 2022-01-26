@@ -1,4 +1,7 @@
-#NFAtoDFAConverter
+NFAtoDFAConverter
+
+This program takes in a non-deterministic finite state automata (NFA) and is able to produce the equivalent deterministic finite state automata (DFA).
+An example format for input is shown in the file "nfa_example.nfa"
 
 Anna Greene
 2314663
